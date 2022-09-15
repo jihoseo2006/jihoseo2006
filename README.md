@@ -16,7 +16,8 @@
   
   🖊️ And,I'm using these tool/IDES! ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 - 🖊️I still lack a lot of skills, but my goal is to work harder and grow!
-- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoseo2006&layout=compact)](https://github.com/jihoseo2006/github-readme-stats)
 
 <!---
 jihoseo2006/jihoseo2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
