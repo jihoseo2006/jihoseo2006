@@ -1,6 +1,6 @@
 # 🎮Only those who try can reach the top -jihoseo
 
-https://github.com/jihoseo2006/github-readme-stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoseo2006)](https://github.com/jihoseo2006/github-readme-stats)
 
 ## 📰intorducing me!
 
