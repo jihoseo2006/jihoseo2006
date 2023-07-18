@@ -13,13 +13,13 @@
 - 👀 I’m interested in Frontend developing.
 
 - 📖 I’m currently studying in school! 
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![DBSQL](https://img.shields.io/badge/Database/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![ALGO](https://img.shields.io/badge/Algorithms-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=white) ![OS](https://img.shields.io/badge/Operating_System-006699?style=for-the-badge&logo=gnometerminal&logoColor=white)
+- ![DBSQL](https://img.shields.io/badge/Database/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![ALGO](https://img.shields.io/badge/Algorithms-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=white) ![OS](https://img.shields.io/badge/Operating_System-006699?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
 - 📖 These are my main development majors! 
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![Css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![REACT](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 - It's something I've learned before and I'm still learning.
-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![DS](https://img.shields.io/badge/Data_Structure-088142?style=for-the-badge&logo=databricks&logoColor=white)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![DS](https://img.shields.io/badge/Data_Structure-088142?style=for-the-badge&logo=databricks&logoColor=white)
 
 - 🖊️ And,I'm using these tool/IDES! 
 - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![VSCODE](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IDEA](https://img.shields.io/badge/Intellij_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
