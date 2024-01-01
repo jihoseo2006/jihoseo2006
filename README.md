@@ -24,6 +24,8 @@
 
 - 🖊️I still lack a lot of skills, but my goal is to work harder and grow!
 - 🖊2024년은 목표를 더욱 성장해야 하는 해라고 생각합니다. 노력해보겠습니다. (24.1.1)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoseo2006&layout=compact)](https://github.com/jihoseo2006/github-readme-stats)
 
 <!---
