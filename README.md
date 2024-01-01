@@ -10,10 +10,7 @@
 
 ## 📖study
 
-- 👀 I’m interested in Frontend developing.
-
-- 📖 I’m currently studying in school! 
-- ![DBSQL](https://img.shields.io/badge/Database/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![ALGO](https://img.shields.io/badge/Algorithms-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=white) ![OS](https://img.shields.io/badge/Operating_System-006699?style=for-the-badge&logo=gnometerminal&logoColor=white)
+- 👀 I’m interested in Web(Frontend) developing.
 
 - 📖 These are my main development majors! 
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![Css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![Node](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) ![REACT](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -26,7 +23,7 @@
 - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![VSCODE](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IDEA](https://img.shields.io/badge/Intellij_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 - 🖊️I still lack a lot of skills, but my goal is to work harder and grow!
-
+- 🖊2024년은 목표를 더욱 성장해야 하는 해라고 생각합니다. 노력해보겠습니다. (24.1.1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoseo2006&layout=compact)](https://github.com/jihoseo2006/github-readme-stats)
 
 <!---
