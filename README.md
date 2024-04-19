@@ -1,4 +1,4 @@
-# 🎮Only those who try can reach the top -jihoseo
+# Only those who try can reach the top -jihoseo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoseo2006)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jihoseo2006)](https://solved.ac/jihoseo2006/)
 
@@ -23,7 +23,6 @@
 - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![VSCODE](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IDEA](https://img.shields.io/badge/Intellij_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 - 🖊️I still lack a lot of skills, but my goal is to work harder and grow!
-- 2024년은 목표를 위해서 더욱 성장해야 한다고 생각합니다. 1년간 노력하겠습니다.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoseo2006&layout=compact)](https://github.com/jihoseo2006/github-readme-stats)
