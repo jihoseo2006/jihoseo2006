@@ -20,7 +20,7 @@
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![DS](https://img.shields.io/badge/Data_Structure-088142?style=for-the-badge&logo=databricks&logoColor=white)
 
 - 🖊️ And,I'm using these tool/IDES! 
-- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![VSCODE](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IDEA](https://img.shields.io/badge/Intellij_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+- ![VSCODE](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IDEA](https://img.shields.io/badge/Intellij_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 - 🖊️I still lack a lot of skills, but my goal is to work harder and grow!
 
