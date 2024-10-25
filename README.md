@@ -5,7 +5,7 @@
 ## 📰intorducing me!
 
 - 🎂Born on March 22nd, 2006
-- 👨‍🎓Student in Daedeok Software Meister High School. graduate 2025.
+- 👨‍🎓Student in Daedeok Software Meister High School. graduate 2024.
 - 🎮Enjoy playing Nintendo games ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white) ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white) ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 ## 📖study
