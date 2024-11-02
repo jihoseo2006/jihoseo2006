@@ -26,8 +26,6 @@
    ![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![STYLED-COMPONENTS](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
-## It's something I've learned before and I'm still learning.
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![DS](https://img.shields.io/badge/Data_Structure-088142?style=for-the-badge&logo=databricks&logoColor=white)
 
 ## 🖊️ And,I'm using these tool/IDES! 
  ![VSCODE](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
