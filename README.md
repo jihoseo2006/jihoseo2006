@@ -27,7 +27,7 @@
 
 
 
-## 🖊️ And,I'm using these tool/IDES! 
+## Tool/IDE/ETC... 
  ![VSCODE](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 - 🖊️I still lack a lot of skills, but my goal is to work harder and grow!
