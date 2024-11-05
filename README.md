@@ -30,7 +30,7 @@
 ## Tool/IDE/ETC... 
  ![VSCODE](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-- 🖊️I still lack a lot of skills, but my goal is to work harder and grow!
+- I still lack a lot of skills, but my goal is to work harder and grow!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoseo2006&layout=compact)](https://github.com/jihoseo2006/github-readme-stats)
